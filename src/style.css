@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+input{
+  border: 1px solid #ccc;
+  height: 28px;
+  line-height: 28px;
+  border-radius: 6px;
+  outline: none;
+  text-indent: 8px;
+}
+
+button{
+  padding: 4px 8px;
+}
